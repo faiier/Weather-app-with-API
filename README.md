@@ -1,16 +1,11 @@
-# weatherapp
+# Weather app with WeatherApi
 
-A new Flutter project.
+This is my first app
 
-## Getting Started
+## Ui inspiration
+- https://dribbble.com/shots/18240387-Lykke-weather-forecast
+- https://dribbble.com/shots/17003404-Weather-App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## I Learned Flutter to make a Weather app from ...
+- https://www.youtube.com/watch?v=2dZkMMVvgdY&list=PLgadKTyFdWuhSyMbTAYGV10KK0rU364t4&index=6
+- https://www.youtube.com/watch?v=Gt2bIEblFX4&t=1956s
